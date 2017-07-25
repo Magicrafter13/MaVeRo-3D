@@ -283,7 +283,7 @@ bool init_sprites()
 	};
 	testsprite.set(100, 100, R1, G1, B1, A1, 5, 5, 1.0);
 	spr_Geno.set(120, 120, R2, G2, B2, A2, 32, 46, 2.0);
-	//test_tile_sprite.set(1, 1, R3, G3, B3, A3, 35, 35, 2.5);
+	test_tile_sprite.set(1, 1, R3, G3, B3, A3, 35, 35, 2.5);
 	return true;
 }
 
