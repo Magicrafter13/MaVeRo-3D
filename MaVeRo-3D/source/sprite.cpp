@@ -10,7 +10,7 @@ void sprite::draw(int relative_x, int relative_y)
 			step++;
 		}
 	}
-	/*if (width == 2)
+	/*if (width == 14)
 	{
 		std::cout << "\x1b[5;0H";
 		for (int i = 0; i < 4; i++)
@@ -21,4 +21,11 @@ void sprite::draw(int relative_x, int relative_y)
 		std::cout << "Pixel 3: X: " << x + 0 << " Y: " << y + 0 << " RGB: " << colorDataR[2] << " " << colorDataG[2] << " " << colorDataB[2] << " A: " << colorDataA[2] << "\n";
 		std::cout << "Pixel 4: X: " << x + 1 << " Y: " << y + 1 << " RGB: " << colorDataR[3] << " " << colorDataG[3] << " " << colorDataB[3] << " A: " << colorDataA[3] << "\n";
 	}*/
+}
+
+obj_Enemy::obj_Enemy(std::string type) {
+	if (type == "GENO")
+		isGeno = true;
+	if (type == "goblin")
+		isGoblin = true;
 }

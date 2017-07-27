@@ -23,6 +23,10 @@ using std::string;
 
 extern PrintConsole topScreen, bottomScreen, versionWin, killBox, debugBox;
 
+extern sprite spr_Null;
+extern sprite spr_Geno;
+extern sprite spr_Goblin;
+
 extern char versiontxtt[8];
 extern char versiontxtn[9];
 extern int vernumqik;

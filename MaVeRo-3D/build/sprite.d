@@ -1,6 +1,6 @@
 sprite.o: \
- c:/Users/scuba/documents/GitHub/MaVeRo-3D/MaVeRo-3D/source/sprite.cpp \
- c:/Users/scuba/documents/GitHub/MaVeRo-3D/MaVeRo-3D/source/sprite.h \
+ c:/Users/scuba/Documents/GitHub/MaVeRo-3D/MaVeRo-3D/source/sprite.cpp \
+ c:/Users/scuba/Documents/GitHub/MaVeRo-3D/MaVeRo-3D/source/sprite.h \
  c:/devkitPro/libctru/include/3ds.h \
  c:/devkitPro/libctru/include/3ds/types.h \
  c:/devkitPro/libctru/include/3ds/result.h \
@@ -86,7 +86,7 @@ sprite.o: \
  c:/devkitPro/libctru/include/c3d/renderbuffer.h \
  c:/devkitPro/libctru/include/c3d/renderqueue.h
 
-c:/Users/scuba/documents/GitHub/MaVeRo-3D/MaVeRo-3D/source/sprite.h:
+c:/Users/scuba/Documents/GitHub/MaVeRo-3D/MaVeRo-3D/source/sprite.h:
 
 c:/devkitPro/libctru/include/3ds.h:
 
